@@ -1,0 +1,117 @@
+ul.parsley-errors-list{list-style: none;color: red;    margin-left: -25px;}
+.alert-banner {
+    background-color: #1dbfc1 !important;
+    padding: 4px;
+    color: white;
+    width: 100%;
+    margin: 5px 0px;
+    border-radius: 5px;
+}
+.full-width{width: 100%;}
+.float-right{float: right;}
+.float-left{float: left;}
+.table-border th,.table-border td {
+    border: 1px solid #000;
+    padding: 10px;
+}
+.table-border [type="radio"]:not(:checked),.table-border [type="radio"]:checked {
+        position: unset;
+    left: -9999px;
+    opacity: unset;
+}
+.user-image{
+    width: 50px;height: 50px;
+}
+.form-control:disabled, .form-control:read-only{background-color: #ffffff !important;}
+.ptabs ul{margin-left: 10px;}
+.ptabs li.nav-item {
+    border: 1px solid #ccc;
+}
+.ptabs li.active {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-bottom: none;
+}
+.pname{color: #1dbfc1;}
+[type="checkbox"]:not(:checked), [type="checkbox"]:checked {
+    position: unset !important;
+    left: -9999px;
+    opacity: 1 !important;
+}
+/*[type="radio"]:not(:checked), [type="radio"]:checked {
+    position: unset !important;
+    left: -9999px;
+    opacity: 1 !important;
+}*/
+/*buttons*/
+.uibutton.large {
+    font-size: 13px;
+    text-transform: uppercase;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.uibutton {
+    position: relative;
+    z-index: 1;
+    overflow: visible;
+    display: inline-block;
+    padding: 12px 12px 12px 12px;
+    margin: 0;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff !important;
+    background-color: #000;
+    border-radius: 35px;
+    font-size: 12px;
+    text-transform: capitalize;
+    margin-top: 5px;
+    margin-top: 24px;
+    border: #000 solid 1px;
+}
+.uibutton.special {
+    background: #000;
+    border-color: #000;
+    color: #fff;
+    margin-left: 2px;
+}
+/*.from_time,.to_time{
+    width: 50% !important;
+}*/
+/*[type="radio"]:not(:checked), [type="radio"]:checked {
+    position: unset !important; 
+    left: -9999px;
+    opacity: 1;
+}*/
+ [type="checkbox"]:not(:checked), [type="checkbox"]:checked {
+    position: unset !important;
+    left: -9999px;
+    opacity: 1;
+}
+.add_therapist_cls {
+    border: 1px solid #000;
+    margin-bottom: 10px;
+}
+.add_therapist_cls td{padding: 5px;}
+#patients_pace{color: #1dbfc1 !important;font-size: 35px;font-weight: bold;text-align: center;}
+
+.center{text-align: center !important;}
+ul.sidebar-menu.tree {
+    overflow: auto;
+    height: 900px;
+}
+
+.link{
+    color: #00b8d4 !important;
+    text-decoration: dashed !important;
+    font-weight: bold !important;
+}
+hr.in-border {
+    height:8px !important;border-width:0;color:#000080 !important;background-color:#000080 !important;
+}
+.in-title{color: #9a76e4;}
+.invoice-title{color:#000080 !important;}
+.co-green{background-color: #94C973 !important;color: white !important;}
+.co-red a,.co-green a{color: white !important;}
+.co-red{background-color: #FF0000 !important;color: white !important;}

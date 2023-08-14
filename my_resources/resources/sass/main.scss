@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@font-face {
+    font-family: 'cerapro';
+    src: local('cerapro'), url(/fonts/cerapro-regular.otf) format('opentype');
+}
+@import 'tailwindcss/utilities';
